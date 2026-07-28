@@ -15,3 +15,5 @@ iwr -useb -UserAgent "Mozilla/5.0" "https://github.com/Ziploot/unlimited-cloud-d
 ```bash
 curl -sL https://raw.githubusercontent.com/Ziploot/unlimited-cloud-drive/main/install.sh | bash
 ```
+
+ 
